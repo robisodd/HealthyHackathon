@@ -1,0 +1,81 @@
+{
+    "appKeys": {
+        "KEY_READY": 20,
+        "icon": 2,
+        "message": 3,
+        "steps": 1,
+        "username": 0
+    },
+    "capabilities": [
+        "configurable",
+        "health"
+    ],
+    "companyName": "Detroit Hack City",
+    "enableMultiJS": true,
+    "longName": "Healthy Hackathon",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/user.png",
+                "name": "USER",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/scream.png",
+                "name": "SCREAM",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/man.png",
+                "name": "MAN",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/mac.png",
+                "name": "MAC",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/girl.png",
+                "name": "GIRL",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/bat.png",
+                "name": "BAT",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/face.png",
+                "name": "FACE",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/boy.png",
+                "name": "BOY",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Healthy Hackathon",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "4251414b-666b-463e-aaee-bd7d376cdbe5",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
